@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://index.html/index.html</loc>
-    <lastmod>2018-08-24</lastmod>
+    <lastmod>2018-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -155,26 +155,71 @@
     <image:image>
       <image:loc>http://index.html/images/whatsapp%20image%202018-08-23%20at%20105949%20pm-crop-u75695.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/cesar.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/whatsapp%20image%202018-08-24%20at%2073112%20pm.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://index.html/semana-1.html</loc>
-    <lastmod>2018-08-24</lastmod>
+    <lastmod>2018-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/protesis%20de%20brazo9.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/299003_800x600_crop_5899100c22d93.jpg</image:loc>
+      <image:loc>http://index.html/images/miembrofantasma.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/miembrofantasma.jpg</image:loc>
+      <image:loc>http://index.html/images/2007_0125pruebas10007.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/phantomlimbpain-main.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://index.html/semana-2.html</loc>
-    <lastmod>2018-08-23</lastmod>
+    <lastmod>2018-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/sigloxx.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/a%C3%B1os70.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/figura3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/figura4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/figura5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/figura6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/figura7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/figura%208-crop-u8838.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/figura8-crop-u8854.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/figura%209-crop-u8870.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/filamento-plastico-para-impresora-3d-abs-pla-nylon-3mm-175m-15779-mlm20108787891_062014-f-crop-u8892.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>

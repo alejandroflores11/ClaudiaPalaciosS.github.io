@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1535154868876">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1535194232073">
   <folder name="css">
     <file name="site_global.css" crc="186167303"/>
-    <file name="index.css" crc="4177219652" ref="index"/>
-    <file name="nomq_index.css" crc="5992790" ref="index"/>
-    <file name="semana-2.css" crc="12745356" ref="semana-2"/>
-    <file name="semana-1.css" crc="235882379" ref="semana-1"/>
+    <file name="index.css" crc="430619965" ref="index"/>
+    <file name="nomq_index.css" crc="4048672120" ref="index"/>
+    <file name="semana-2.css" crc="4252769615" ref="semana-2"/>
+    <file name="semana-1.css" crc="134094231" ref="semana-1"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:semana-1:semana-2"/>
@@ -273,14 +273,67 @@
     <file name="protesis de brazo9.jpg" crc="4147364237" seo="true" ref="semana-1">
       <caption webpage="semana-1" alt=""/>
     </file>
-    <file name="299003_800x600_crop_5899100c22d93.jpg" crc="456318249" seo="true" ref="semana-1">
-      <caption webpage="semana-1" alt=""/>
-    </file>
     <file name="miembrofantasma.jpg" crc="4019104403" seo="true" ref="semana-1">
       <caption webpage="semana-1" alt=""/>
     </file>
+    <file name="cesar.jpg" crc="3969459503" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-24 at 73112 pm.jpg" crc="429502627" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2007_0125pruebas10007.jpg" crc="309631684" seo="true" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="phantomlimbpain-main.jpg" crc="127122611" seo="true" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4221219675" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="sigloxx.jpg" crc="103049981" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="años70.jpg" crc="3960395531" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="figura3.jpg" crc="4024908946" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="figura4.jpg" crc="189066037" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="figura5.jpg" crc="114897270" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="figura6.jpg" crc="4279448374" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="figura7.jpg" crc="3935899195" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="figura 8-crop-u8838.jpg" crc="4108673974" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="figura8-crop-u8854.jpg" crc="216293739" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="figura 9-crop-u8870.jpg" crc="427289374" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="filamento-plastico-para-impresora-3d-abs-pla-nylon-3mm-175m-15779-mlm20108787891_062014-f-crop-u8892.jpg" crc="4066993783" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4161999479" seo="true" mt="1535144385238" redirect="true"/>
-  <file name="semana-1.html" crc="16554380" seo="true" mt="1535152529421" redirect="true"/>
-  <file name="semana-2.html" crc="3771717829" seo="true" mt="1535083556496" redirect="false"/>
+  <file name="index.html" crc="170510056" seo="true" mt="1535188597635" redirect="true"/>
+  <file name="semana-1.html" crc="4286738326" seo="true" mt="1535189681514" redirect="true"/>
+  <file name="semana-2.html" crc="492865694" seo="true" mt="1535194211574" redirect="true"/>
 </manifest>
