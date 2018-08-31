@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://index.html/index.html</loc>
-    <lastmod>2018-08-25</lastmod>
+    <lastmod>2018-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -63,6 +63,12 @@
       <image:loc>http://index.html/images/0803_fc_int_aae_crc.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://index.html/images/cesar.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/whatsapp%20image%202018-08-25%20at%20113855%20am-crop-u11263.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://index.html/images/whatsapp%20image%202018-08-23%20at%20105555%20pm-crop-u7554.jpg</image:loc>
     </image:image>
     <image:image>
@@ -90,6 +96,9 @@
       <image:loc>http://index.html/images/whatsapp%20image%202018-08-23%20at%20105555%20pm-crop-u75542.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://index.html/images/whatsapp%20image%202018-08-25%20at%20113855%20am-crop-u112632.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://index.html/images/whatsapp%20image%202018-08-23%20at%20105949%20pm-crop-u75692.jpg</image:loc>
     </image:image>
     <image:image>
@@ -109,6 +118,9 @@
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/whatsapp%20image%202018-08-23%20at%20105555%20pm-crop-u75543.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/whatsapp%20image%202018-08-25%20at%20113855%20am-crop-u112633.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/whatsapp%20image%202018-08-23%20at%20105949%20pm-crop-u75693.jpg</image:loc>
@@ -135,6 +147,9 @@
       <image:loc>http://index.html/images/whatsapp%20image%202018-08-23%20at%20105555%20pm-crop-u75544.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://index.html/images/whatsapp%20image%202018-08-25%20at%20113855%20am-crop-u112634.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://index.html/images/imagen-crop-u60744.jpg</image:loc>
     </image:image>
     <image:image>
@@ -156,70 +171,148 @@
       <image:loc>http://index.html/images/whatsapp%20image%202018-08-23%20at%20105949%20pm-crop-u75695.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/cesar.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/whatsapp%20image%202018-08-24%20at%2073112%20pm.jpg</image:loc>
+      <image:loc>http://index.html/images/whatsapp%20image%202018-08-25%20at%20113855%20am-crop-u112635.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://index.html/semana-1.html</loc>
-    <lastmod>2018-08-25</lastmod>
+    <lastmod>2018-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://index.html/images/protesis%20de%20brazo9.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/miembrofantasma.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/2007_0125pruebas10007.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/phantomlimbpain-main.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://index.html/semana-2.html</loc>
-    <lastmod>2018-08-25</lastmod>
+    <lastmod>2018-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/sigloxx.jpg</image:loc>
+      <image:loc>http://index.html/images/28.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/a%C3%B1os70.jpg</image:loc>
+      <image:loc>http://index.html/images/dg1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-3.html</loc>
+    <lastmod>2018-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/gantt.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/definici%C3%B3n-de-amputaci%C3%B3n.html</loc>
+    <lastmod>2018-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/placeholder1%202.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/figura3.jpg</image:loc>
+      <image:loc>http://index.html/images/placeholder1%203.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/figura4.jpg</image:loc>
+      <image:loc>http://index.html/images/placeholder1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/figura5.jpg</image:loc>
+      <image:loc>http://index.html/images/image2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/contexto-social.html</loc>
+    <lastmod>2018-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/58dc6f2be610a.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/anatomia-del-mun%C3%B3n.html</loc>
+    <lastmod>2018-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/musculos-brazos.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/dolor-del-miembro-fantasma.html</loc>
+    <lastmod>2018-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/2016110713531641832-700x525.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/impacto-psicol%C3%B3gico.html</loc>
+    <lastmod>2018-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/cere.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/estado-del-arte.html</loc>
+    <lastmod>2018-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/figura1-crop-u13482.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/figura6.jpg</image:loc>
+      <image:loc>http://index.html/images/asa-crop-u13708.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/figura7.jpg</image:loc>
+      <image:loc>http://index.html/images/willmer-crop-u13736.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/figura%208-crop-u8838.jpg</image:loc>
+      <image:loc>http://index.html/images/randall-crop-u13609.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/figura8-crop-u8854.jpg</image:loc>
+      <image:loc>http://index.html/images/ital-crop-u13592.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/figura%209-crop-u8870.jpg</image:loc>
+      <image:loc>http://index.html/images/00833_3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/filamento-plastico-para-impresora-3d-abs-pla-nylon-3mm-175m-15779-mlm20108787891_062014-f-crop-u8892.jpg</image:loc>
+      <image:loc>http://index.html/images/a%C3%B1os70-crop-u13501.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/odio%20mi%20vida-crop-u13533.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/acci-crop-u13756.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/trac-crop-u13746.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/materiales.html</loc>
+    <lastmod>2018-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/asdasas.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/captura.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/rehabilitaci%C3%B3n.html</loc>
+    <lastmod>2018-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/20497.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
