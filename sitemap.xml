@@ -176,13 +176,13 @@
   </url>
   <url>
     <loc>http://index.html/semana-1.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <lastmod>2018-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://index.html/semana-2.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <lastmod>2018-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -197,47 +197,11 @@
   </url>
   <url>
     <loc>http://index.html/semana-3.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <lastmod>2018-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/gantt.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://index.html/definici%C3%B3n-de-amputaci%C3%B3n.html</loc>
-    <lastmod>2018-08-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://index.html/images/placeholder1%202.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/placeholder1%203.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/placeholder1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/image2.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://index.html/contexto-social.html</loc>
-    <lastmod>2018-08-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://index.html/images/58dc6f2be610a.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://index.html/anatomia-del-mun%C3%B3n.html</loc>
-    <lastmod>2018-08-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://index.html/images/musculos-brazos.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -260,23 +224,11 @@
   </url>
   <url>
     <loc>http://index.html/estado-del-arte.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <lastmod>2018-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/figura1-crop-u13482.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/asa-crop-u13708.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/willmer-crop-u13736.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/randall-crop-u13609.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/ital-crop-u13592.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/00833_3.jpg</image:loc>
@@ -285,34 +237,46 @@
       <image:loc>http://index.html/images/a%C3%B1os70-crop-u13501.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://index.html/images/asa-crop-u13708.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://index.html/images/odio%20mi%20vida-crop-u13533.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/willmer-crop-u13736.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/acci-crop-u13756.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://index.html/images/randall-crop-u13609.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://index.html/images/trac-crop-u13746.jpg</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://index.html/materiales.html</loc>
-    <lastmod>2018-08-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://index.html/images/asdasas.jpg</image:loc>
+      <image:loc>http://index.html/images/ital-crop-u13592.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/captura.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://index.html/rehabilitaci%C3%B3n.html</loc>
-    <lastmod>2018-08-31</lastmod>
+    <loc>http://index.html/materiales.html</loc>
+    <lastmod>2018-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://index.html/images/20497.jpg</image:loc>
+      <image:loc>http://index.html/images/asdasas.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-4.html</loc>
+    <lastmod>2018-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/image2.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
