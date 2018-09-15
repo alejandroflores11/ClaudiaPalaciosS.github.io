@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://index.html/index.html</loc>
-    <lastmod>2018-09-10</lastmod>
+    <lastmod>2018-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -63,7 +63,7 @@
       <image:loc>http://index.html/images/0803_fc_int_aae_crc.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/whatsapp%20image%202018-08-31%20at%2012413%20pm.jpg</image:loc>
+      <image:loc>http://index.html/images/cesar.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/whatsapp%20image%202018-08-25%20at%20113855%20am-crop-u11263.jpg</image:loc>
@@ -176,13 +176,13 @@
   </url>
   <url>
     <loc>http://index.html/semana-1.html</loc>
-    <lastmod>2018-09-10</lastmod>
+    <lastmod>2018-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://index.html/semana-2.html</loc>
-    <lastmod>2018-09-10</lastmod>
+    <lastmod>2018-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -205,39 +205,60 @@
     </image:image>
   </url>
   <url>
-    <loc>http://index.html/estado-del-arte.html</loc>
-    <lastmod>2018-09-10</lastmod>
+    <loc>http://index.html/dolor-del-miembro-fantasma.html</loc>
+    <lastmod>2018-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://index.html/images/techvoizecom.jpg</image:loc>
+      <image:loc>http://index.html/images/2016110713531641832-700x525.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/impacto-psicol%C3%B3gico.html</loc>
+    <lastmod>2018-08-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/cere.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/estado-del-arte.html</loc>
+    <lastmod>2018-09-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/figura1-crop-u13482.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/linea%20de%20tiempo.jpg</image:loc>
+      <image:loc>http://index.html/images/00833_3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/linea2.jpg</image:loc>
+      <image:loc>http://index.html/images/a%C3%B1os70-crop-u13501.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/linea3.jpg</image:loc>
+      <image:loc>http://index.html/images/asa-crop-u13708.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/odio%20mi%20vida-crop-u13533.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/willmer-crop-u13736.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/acci-crop-u13756.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/randall-crop-u13609.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/trac-crop-u13746.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/ital-crop-u13592.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/captura.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/nt1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/nt2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/nt3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/nt4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/nt5.jpg</image:loc>
     </image:image>
   </url>
   <url>
