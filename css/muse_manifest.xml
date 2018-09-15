@@ -1,0 +1,375 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1536419700924">
+  <folder name="css">
+    <file name="site_global.css" crc="186167303"/>
+    <file name="semana-2.css" crc="3933266969" ref="semana-2"/>
+    <file name="index.css" crc="142272992" ref="index"/>
+    <file name="nomq_index.css" crc="291692385" ref="index"/>
+    <file name="estado-del-arte.css" crc="497219071" ref="estado-del-arte"/>
+    <file name="semana-3.css" crc="26789717" ref="semana-3"/>
+    <file name="materiales.css" crc="4023999559" ref="materiales"/>
+    <file name="dolor-del-miembro-fantasma.css" crc="4045257864" ref="dolor-del-miembro-fantasma"/>
+    <file name="semana-4.css" crc="4068865117" ref="semana-4"/>
+    <file name="semana-1.css" crc="392655556" ref="semana-1"/>
+    <file name="impacto-psicol_gico.css" crc="3841612957" ref="impacto-psicológico"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:semana-1:semana-2:semana-3:dolor-del-miembro-fantasma:impacto-psicológico:estado-del-arte:materiales:semana-4"/>
+    <file name="museutils.js" crc="3803043152" ref="index:semana-1:semana-2:semana-3:dolor-del-miembro-fantasma:impacto-psicológico:estado-del-arte:materiales:semana-4"/>
+    <file name="whatinput.js" crc="86476730" ref="index:semana-1:semana-2:semana-3:dolor-del-miembro-fantasma:impacto-psicológico:estado-del-arte:materiales:semana-4"/>
+    <file name="museconfig.js" crc="380897831" ref="index:semana-1:semana-2:semana-3:dolor-del-miembro-fantasma:impacto-psicológico:estado-del-arte:materiales:semana-4"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:semana-1:semana-2:semana-3:dolor-del-miembro-fantasma:impacto-psicológico:estado-del-arte:materiales:semana-4"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:semana-1"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:semana-1:semana-2:semana-3:dolor-del-miembro-fantasma:impacto-psicológico:estado-del-arte:materiales:semana-4"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index:semana-1:semana-2:semana-3:dolor-del-miembro-fantasma:impacto-psicológico:estado-del-arte:materiales:semana-4"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="328987819" ref="index"/>
+    <file name="hospital-palamvihar.jpg" crc="3851032277" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="58d1f4a8334b4.jpg" crc="3978602243" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ingenieria_biomedica_img2.jpg" crc="4123807683" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-izquierda.png" crc="3975364059" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-derecha.png" crc="152649081" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="imagen464x446.jpg" crc="4105717162" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="protesis.jpg" crc="351413432" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="robot_skin_banner.jpg" crc="4269035317" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redimensionar-crop-u6459.jpg" crc="4000948382" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="retos-investigacion-2015.jpg" crc="454659321" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plan-de-trabajo.jpg" crc="83894310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="estrategia-negocios.jpg" crc="157412316" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="solucion-de-problemas-toma-decisiones-curso-crop-u6487.jpg" crc="428311542" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="57658183-problema-salto-en-representación-de-la-escalada-de-inicio-y-solución-de-representación-3d-crop-u6502.jpg" crc="115366198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="itoki-banco-multicolor.jpg" crc="3778250006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plan.jpg" crc="4152314996" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="crear-una-empresa-en-el-innovador-sector-de-la-impresion-3d_ampliacion.jpg" crc="65659985" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3d.jpg" crc="3978430316" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="depositphotos_60117357-stock-photo-business-people-piecing-puzzle-pieces-crop-u6577.jpg" crc="3919498150" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="descarga.jpg" crc="207447802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="optimizacion.jpg" crc="442029272" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="0803_fc_int_aae_crc.jpg" crc="3958142128" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cesar.jpg" crc="3969459503" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-25 at 113855 am-crop-u11263.jpg" crc="80175385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-23 at 105555 pm-crop-u7554.jpg" crc="406752802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-23 at 105949 pm-crop-u7569.jpg" crc="3777532604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="biomedica-presentacion.jpg" crc="4143651025" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen-crop-u6074.jpg" crc="4071832218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="protesis-u6184-fr.jpg" crc="527340995" ref="index"/>
+    <file name="redimensionar-crop-u64592.jpg" crc="4000948382" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="solucion-de-problemas-toma-decisiones-curso-crop-u64872.jpg" crc="428311542" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="57658183-problema-salto-en-representación-de-la-escalada-de-inicio-y-solución-de-representación-3d-crop-u65022.jpg" crc="115366198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="depositphotos_60117357-stock-photo-business-people-piecing-puzzle-pieces-crop-u65772.jpg" crc="3919498150" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-23 at 105555 pm-crop-u75542.jpg" crc="406752802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-25 at 113855 am-crop-u112632.jpg" crc="80175385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-23 at 105949 pm-crop-u75692.jpg" crc="3777532604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen-crop-u60742.jpg" crc="4071832218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="protesis-u6184-fr2.jpg" crc="3995788696" ref="index"/>
+    <file name="redimensionar-crop-u64593.jpg" crc="4000948382" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="solucion-de-problemas-toma-decisiones-curso-crop-u64873.jpg" crc="428311542" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="57658183-problema-salto-en-representación-de-la-escalada-de-inicio-y-solución-de-representación-3d-crop-u65023.jpg" crc="115366198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="depositphotos_60117357-stock-photo-business-people-piecing-puzzle-pieces-crop-u65773.jpg" crc="3919498150" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-23 at 105555 pm-crop-u75543.jpg" crc="406752802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-25 at 113855 am-crop-u112633.jpg" crc="80175385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-23 at 105949 pm-crop-u75693.jpg" crc="3777532604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen-crop-u60743.jpg" crc="4071832218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu.png" crc="3935061649" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cerrado.png" crc="473227605" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="protesis-u6184-fr3.jpg" crc="115501655" ref="index"/>
+    <file name="redimensionar-crop-u64594.jpg" crc="4000948382" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="solucion-de-problemas-toma-decisiones-curso-crop-u64874.jpg" crc="428311542" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="57658183-problema-salto-en-representación-de-la-escalada-de-inicio-y-solución-de-representación-3d-crop-u65024.jpg" crc="115366198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="depositphotos_60117357-stock-photo-business-people-piecing-puzzle-pieces-crop-u65774.jpg" crc="3919498150" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-23 at 105949 pm-crop-u75694.jpg" crc="3777532604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-23 at 105555 pm-crop-u75544.jpg" crc="406752802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-25 at 113855 am-crop-u112634.jpg" crc="80175385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen-crop-u60744.jpg" crc="4071832218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redimensionar-crop-u64595.jpg" crc="4000948382" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="solucion-de-problemas-toma-decisiones-curso-crop-u64875.jpg" crc="428311542" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="57658183-problema-salto-en-representación-de-la-escalada-de-inicio-y-solución-de-representación-3d-crop-u65025.jpg" crc="115366198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="depositphotos_60117357-stock-photo-business-people-piecing-puzzle-pieces-crop-u65775.jpg" crc="3919498150" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-23 at 105555 pm-crop-u75545.jpg" crc="406752802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-23 at 105949 pm-crop-u75695.jpg" crc="3777532604" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp image 2018-08-25 at 113855 am-crop-u112635.jpg" crc="80175385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14128575308759.jpg" crc="363368456" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4221219675" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="28.jpg" crc="418137349" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="dg1.jpg" crc="314825083" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="gantt.jpg" crc="3824099655" seo="true" ref="semana-3">
+      <caption webpage="semana-3" alt=""/>
+    </file>
+    <file name="2016110713531641832-700x525.jpg" crc="254824454" seo="true" ref="dolor-del-miembro-fantasma">
+      <caption webpage="dolor-del-miembro-fantasma" alt=""/>
+    </file>
+    <file name="cere.jpg" crc="4213803316" seo="true" ref="impacto-psicológico">
+      <caption webpage="impacto-psicológico" alt=""/>
+    </file>
+    <file name="figura1-crop-u13482.jpg" crc="317880718" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="00833_3.jpg" crc="4232428791" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="años70-crop-u13501.jpg" crc="3767257092" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="00833_3-u13514.png" crc="4011052884" ref="estado-del-arte"/>
+    <file name="asa-crop-u13708.jpg" crc="3939695845" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="00833_3-u13550.png" crc="4011052884" ref="estado-del-arte"/>
+    <file name="odio mi vida-crop-u13533.jpg" crc="461176771" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="00833_3-u13570.png" crc="4011052884" ref="estado-del-arte"/>
+    <file name="willmer-crop-u13736.jpg" crc="90659147" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="acci-crop-u13756.jpg" crc="360642977" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="00833_3-u13622.png" crc="4011052884" ref="estado-del-arte"/>
+    <file name="randall-crop-u13609.jpg" crc="249346934" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="00833_3-u13679.png" crc="4011052884" ref="estado-del-arte"/>
+    <file name="trac-crop-u13746.jpg" crc="477670154" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="00833_3-u13695.png" crc="4011052884" ref="estado-del-arte"/>
+    <file name="ital-crop-u13592.jpg" crc="435560646" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="captura.jpg" crc="4247893201" seo="true" ref="estado-del-arte">
+      <caption webpage="estado-del-arte" alt=""/>
+    </file>
+    <file name="asdasas.jpg" crc="4015901791" seo="true" ref="materiales">
+      <caption webpage="materiales" alt=""/>
+    </file>
+    <file name="image2.jpg" crc="466669867" seo="true" ref="semana-4">
+      <caption webpage="semana-4" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4142900289" seo="true" mt="1535728554919" redirect="true"/>
+  <file name="semana-1.html" crc="416115409" seo="true" mt="1536419341629" redirect="true"/>
+  <file name="semana-2.html" crc="33752712" seo="true" mt="1536419097367" redirect="true"/>
+  <file name="semana-3.html" crc="443728172" seo="true" mt="1536418600289" redirect="true"/>
+  <file name="dolor-del-miembro-fantasma.html" crc="3870484389" seo="true" mt="1535734456229" redirect="true"/>
+  <file name="impacto-psicológico.html" crc="4181517983" seo="true" mt="1535734957437" redirect="true"/>
+  <file name="estado-del-arte.html" crc="71834124" seo="true" mt="1536418943605" redirect="true"/>
+  <file name="materiales.html" crc="212239343" seo="true" mt="1536419434167" redirect="true"/>
+  <file name="semana-4.html" crc="4177656870" seo="true" mt="1536419484529" redirect="true"/>
+</manifest>
