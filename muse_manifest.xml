@@ -1,30 +1,31 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1537052610721">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1537630229573">
   <folder name="css">
     <file name="site_global.css" crc="186167303"/>
-    <file name="semana-2.css" crc="199941592" ref="semana-2"/>
-    <file name="estado-del-arte.css" crc="81875012" ref="estado-del-arte"/>
-    <file name="semana-1.css" crc="4015292150" ref="semana-1"/>
-    <file name="semana-4.css" crc="4068865117" ref="semana-4"/>
-    <file name="index.css" crc="4259857665" ref="index"/>
-    <file name="nomq_index.css" crc="19182354" ref="index"/>
-    <file name="semana-3.css" crc="3919217227" ref="semana-3"/>
     <file name="materiales.css" crc="4017703723" ref="materiales"/>
+    <file name="semana-2.css" crc="4113622483" ref="semana-2"/>
+    <file name="semana-1.css" crc="533573602" ref="semana-1"/>
+    <file name="semana-4.css" crc="3853230111" ref="semana-4"/>
+    <file name="semana-3.css" crc="3919217227" ref="semana-3"/>
+    <file name="semana-5.css" crc="182017588" ref="semana-5"/>
+    <file name="estado-del-arte.css" crc="281859354" ref="estado-del-arte"/>
+    <file name="index.css" crc="391042737" ref="index"/>
+    <file name="nomq_index.css" crc="3869418649" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4"/>
-    <file name="museutils.js" crc="3803043152" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4"/>
-    <file name="whatinput.js" crc="86476730" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5"/>
+    <file name="museutils.js" crc="3803043152" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5"/>
+    <file name="whatinput.js" crc="86476730" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5"/>
+    <file name="museconfig.js" crc="380897831" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:semana-1"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4"/>
+    <file name="require.js" crc="4157109226" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="328987819" ref="index"/>
@@ -65,7 +66,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="imagen-crop-u6074.jpg" crc="4094337010" seo="true" ref="index">
+    <file name="imagen464x446.jpg" crc="4105717162" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="protesis.jpg" crc="351413432" ref="index">
@@ -105,7 +106,7 @@
     <file name="solucion-de-problemas-toma-decisiones-curso-crop-u6487.jpg" crc="428311542" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="57658183-problema-salto-en-representación-de-la-escalada-de-inicio-y-solución-de-representación-3d-crop-u6502.jpg" crc="3787096102" seo="true" ref="index">
+    <file name="57658183-problema-salto-en-representación-de-la-escalada-de-inicio-y-solución-de-representación-3d-crop-u6502.jpg" crc="115366198" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="itoki-banco-multicolor.jpg" crc="3778250006" seo="true" ref="index">
@@ -183,7 +184,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="imagen-crop-u60742.jpg" crc="501496140" seo="true" ref="index">
+    <file name="imagen-crop-u6074.jpg" crc="4071832218" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="protesis-u6184-fr.jpg" crc="527340995" ref="index"/>
@@ -193,7 +194,7 @@
     <file name="solucion-de-problemas-toma-decisiones-curso-crop-u64872.jpg" crc="428311542" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="57658183-problema-salto-en-representación-de-la-escalada-de-inicio-y-solución-de-representación-3d-crop-u65022.jpg" crc="3787096102" seo="true" ref="index">
+    <file name="57658183-problema-salto-en-representación-de-la-escalada-de-inicio-y-solución-de-representación-3d-crop-u65022.jpg" crc="115366198" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="depositphotos_60117357-stock-photo-business-people-piecing-puzzle-pieces-crop-u65772.jpg" crc="3919498150" seo="true" ref="index">
@@ -208,7 +209,7 @@
     <file name="whatsapp image 2018-08-23 at 105949 pm-crop-u75692.jpg" crc="3777532604" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="imagen-crop-u60743.jpg" crc="501496140" seo="true" ref="index">
+    <file name="imagen-crop-u60742.jpg" crc="4071832218" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="protesis-u6184-fr2.jpg" crc="3995788696" ref="index"/>
@@ -218,7 +219,7 @@
     <file name="solucion-de-problemas-toma-decisiones-curso-crop-u64873.jpg" crc="428311542" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="57658183-problema-salto-en-representación-de-la-escalada-de-inicio-y-solución-de-representación-3d-crop-u65023.jpg" crc="3787096102" seo="true" ref="index">
+    <file name="57658183-problema-salto-en-representación-de-la-escalada-de-inicio-y-solución-de-representación-3d-crop-u65023.jpg" crc="115366198" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="depositphotos_60117357-stock-photo-business-people-piecing-puzzle-pieces-crop-u65773.jpg" crc="3919498150" seo="true" ref="index">
@@ -233,7 +234,7 @@
     <file name="whatsapp image 2018-08-23 at 105949 pm-crop-u75693.jpg" crc="3777532604" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="imagen-crop-u60744.jpg" crc="501496140" seo="true" ref="index">
+    <file name="imagen-crop-u60743.jpg" crc="4071832218" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="protesis-u6184-fr3.jpg" crc="115501655" ref="index"/>
@@ -243,7 +244,7 @@
     <file name="solucion-de-problemas-toma-decisiones-curso-crop-u64874.jpg" crc="428311542" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="57658183-problema-salto-en-representación-de-la-escalada-de-inicio-y-solución-de-representación-3d-crop-u65024.jpg" crc="3787096102" seo="true" ref="index">
+    <file name="57658183-problema-salto-en-representación-de-la-escalada-de-inicio-y-solución-de-representación-3d-crop-u65024.jpg" crc="115366198" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="depositphotos_60117357-stock-photo-business-people-piecing-puzzle-pieces-crop-u65774.jpg" crc="3919498150" seo="true" ref="index">
@@ -258,7 +259,7 @@
     <file name="whatsapp image 2018-08-25 at 113855 am-crop-u112634.jpg" crc="80175385" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="imagen-crop-u60745.jpg" crc="501496140" seo="true" ref="index">
+    <file name="imagen-crop-u60744.jpg" crc="4071832218" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="redimensionar-crop-u64595.jpg" crc="4000948382" seo="true" ref="index">
@@ -267,7 +268,7 @@
     <file name="solucion-de-problemas-toma-decisiones-curso-crop-u64875.jpg" crc="428311542" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="57658183-problema-salto-en-representación-de-la-escalada-de-inicio-y-solución-de-representación-3d-crop-u65025.jpg" crc="3787096102" seo="true" ref="index">
+    <file name="57658183-problema-salto-en-representación-de-la-escalada-de-inicio-y-solución-de-representación-3d-crop-u65025.jpg" crc="115366198" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="depositphotos_60117357-stock-photo-business-people-piecing-puzzle-pieces-crop-u65775.jpg" crc="3919498150" seo="true" ref="index">
@@ -321,7 +322,7 @@
     <file name="linea3.jpg" crc="209381387" seo="true" ref="estado-del-arte">
       <caption webpage="estado-del-arte" alt=""/>
     </file>
-    <file name="captura.jpg" crc="497729288" seo="true" ref="estado-del-arte">
+    <file name="captura.jpg" crc="4247893201" seo="true" ref="estado-del-arte">
       <caption webpage="estado-del-arte" alt=""/>
     </file>
     <file name="nt1.jpg" crc="4137603060" seo="true" ref="estado-del-arte">
@@ -345,12 +346,43 @@
     <file name="image2.jpg" crc="466669867" seo="true" ref="semana-4">
       <caption webpage="semana-4" alt=""/>
     </file>
+    <file name="matriz3.jpg" crc="224751003" seo="true" ref="semana-4">
+      <caption webpage="semana-4" alt=""/>
+    </file>
+    <file name="mano.jpg" crc="3978602243" seo="true" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
+    <file name="semana511.jpg" crc="194723942" seo="true" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
+    <file name="semana53.jpg" crc="445500234" seo="true" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
+    <file name="semana54.jpg" crc="4274321805" seo="true" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
+    <file name="semana55.jpg" crc="436091125" seo="true" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
+    <file name="semana56.jpg" crc="3839456706" seo="true" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
+    <file name="semana57.jpg" crc="4176331820" seo="true" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
+    <file name="semana58.jpg" crc="340422876" seo="true" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
+    <file name="semana52.jpg" crc="357165791" seo="true" ref="semana-5">
+      <caption webpage="semana-5" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="478182485" seo="true" mt="1537052572572" redirect="true"/>
-  <file name="semana-1.html" crc="4138004197" seo="true" mt="1537049869954" redirect="true"/>
-  <file name="semana-2.html" crc="4214986021" seo="true" mt="1536562602444" redirect="true"/>
-  <file name="semana-3.html" crc="4208762346" seo="true" mt="1537045484524" redirect="true"/>
-  <file name="estado-del-arte.html" crc="4088156933" seo="true" mt="1537052572452" redirect="true"/>
-  <file name="materiales.html" crc="18055004" seo="true" mt="1537042792086" redirect="true"/>
-  <file name="semana-4.html" crc="507551293" seo="true" mt="1537048140817" redirect="true"/>
+  <file name="index.html" crc="3925588747" seo="true" mt="1537629679154" redirect="true"/>
+  <file name="semana-1.html" crc="4290829344" seo="true" mt="1537630167676" redirect="true"/>
+  <file name="semana-2.html" crc="451405511" seo="true" mt="1536562602444" redirect="true"/>
+  <file name="semana-3.html" crc="266972243" seo="true" mt="1537045484524" redirect="true"/>
+  <file name="estado-del-arte.html" crc="162485282" seo="true" mt="1537042665054" redirect="true"/>
+  <file name="materiales.html" crc="3848318218" seo="true" mt="1537042792086" redirect="true"/>
+  <file name="semana-4.html" crc="3911612177" seo="true" mt="1537627374936" redirect="true"/>
+  <file name="semana-5.html" crc="4251577254" seo="true" mt="1537629840561" redirect="true"/>
 </manifest>

@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://index.html/index.html</loc>
-    <lastmod>2018-09-15</lastmod>
+    <lastmod>2018-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -15,7 +15,7 @@
       <image:loc>http://index.html/images/ingenieria_biomedica_img2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/imagen-crop-u6074.jpg</image:loc>
+      <image:loc>http://index.html/images/imagen464x446.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/robot_skin_banner.jpg</image:loc>
@@ -78,7 +78,7 @@
       <image:loc>http://index.html/images/biomedica-presentacion.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/imagen-crop-u60742.jpg</image:loc>
+      <image:loc>http://index.html/images/imagen-crop-u6074.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/redimensionar-crop-u64592.jpg</image:loc>
@@ -102,7 +102,7 @@
       <image:loc>http://index.html/images/whatsapp%20image%202018-08-23%20at%20105949%20pm-crop-u75692.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/imagen-crop-u60743.jpg</image:loc>
+      <image:loc>http://index.html/images/imagen-crop-u60742.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/redimensionar-crop-u64593.jpg</image:loc>
@@ -126,7 +126,7 @@
       <image:loc>http://index.html/images/whatsapp%20image%202018-08-23%20at%20105949%20pm-crop-u75693.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/imagen-crop-u60744.jpg</image:loc>
+      <image:loc>http://index.html/images/imagen-crop-u60743.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/redimensionar-crop-u64594.jpg</image:loc>
@@ -150,7 +150,7 @@
       <image:loc>http://index.html/images/whatsapp%20image%202018-08-25%20at%20113855%20am-crop-u112634.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/imagen-crop-u60745.jpg</image:loc>
+      <image:loc>http://index.html/images/imagen-crop-u60744.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/redimensionar-crop-u64595.jpg</image:loc>
@@ -176,7 +176,7 @@
   </url>
   <url>
     <loc>http://index.html/semana-1.html</loc>
-    <lastmod>2018-09-15</lastmod>
+    <lastmod>2018-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -263,11 +263,47 @@
   </url>
   <url>
     <loc>http://index.html/semana-4.html</loc>
-    <lastmod>2018-09-15</lastmod>
+    <lastmod>2018-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/image2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/matriz3.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-5.html</loc>
+    <lastmod>2018-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/mano.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/semana511.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/semana53.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/semana54.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/semana55.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/semana56.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/semana57.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/semana58.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/semana52.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
