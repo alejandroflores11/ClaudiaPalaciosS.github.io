@@ -176,19 +176,16 @@
   </url>
   <url>
     <loc>http://index.html/semana-1.html</loc>
-    <lastmod>2018-09-22</lastmod>
+    <lastmod>2018-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/imagen%201.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/imagen%202.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://index.html/semana-2.html</loc>
-    <lastmod>2018-09-10</lastmod>
+    <lastmod>2018-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -203,7 +200,7 @@
   </url>
   <url>
     <loc>http://index.html/semana-3.html</loc>
-    <lastmod>2018-09-15</lastmod>
+    <lastmod>2018-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -254,7 +251,7 @@
   </url>
   <url>
     <loc>http://index.html/materiales.html</loc>
-    <lastmod>2018-09-15</lastmod>
+    <lastmod>2018-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -263,7 +260,7 @@
   </url>
   <url>
     <loc>http://index.html/semana-4.html</loc>
-    <lastmod>2018-09-22</lastmod>
+    <lastmod>2018-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -275,14 +272,14 @@
   </url>
   <url>
     <loc>http://index.html/semana-5.html</loc>
-    <lastmod>2018-09-22</lastmod>
+    <lastmod>2018-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/mano.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/semana511.jpg</image:loc>
+      <image:loc>http://index.html/images/pptflatante.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/semana53.jpg</image:loc>
@@ -305,5 +302,11 @@
     <image:image>
       <image:loc>http://index.html/images/semana52.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-6.html</loc>
+    <lastmod>2018-09-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
