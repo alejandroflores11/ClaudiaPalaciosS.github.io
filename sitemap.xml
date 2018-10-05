@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://index.html/index.html</loc>
-    <lastmod>2018-09-22</lastmod>
+    <lastmod>2018-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -176,7 +176,7 @@
   </url>
   <url>
     <loc>http://index.html/semana-1.html</loc>
-    <lastmod>2018-09-25</lastmod>
+    <lastmod>2018-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -200,22 +200,19 @@
   </url>
   <url>
     <loc>http://index.html/semana-3.html</loc>
-    <lastmod>2018-09-25</lastmod>
+    <lastmod>2018-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://index.html/images/plan%20de%20trabajo.jpg</image:loc>
+      <image:loc>http://index.html/images/semana3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/sin%20t%C3%ADtulo%20(1).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/sdsd.jpg</image:loc>
+      <image:loc>http://index.html/images/ganttyy-.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://index.html/estado-del-arte.html</loc>
-    <lastmod>2018-09-15</lastmod>
+    <lastmod>2018-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -251,7 +248,7 @@
   </url>
   <url>
     <loc>http://index.html/materiales.html</loc>
-    <lastmod>2018-09-25</lastmod>
+    <lastmod>2018-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -260,52 +257,73 @@
   </url>
   <url>
     <loc>http://index.html/semana-4.html</loc>
-    <lastmod>2018-09-25</lastmod>
+    <lastmod>2018-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/image2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/matriz3.jpg</image:loc>
+      <image:loc>http://index.html/images/semana4.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://index.html/semana-5.html</loc>
-    <lastmod>2018-09-25</lastmod>
+    <lastmod>2018-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/mano.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/pptflatante.jpg</image:loc>
+      <image:loc>http://index.html/images/i3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/semana53.jpg</image:loc>
+      <image:loc>http://index.html/images/i4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/semana54.jpg</image:loc>
+      <image:loc>http://index.html/images/i5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/semana55.jpg</image:loc>
+      <image:loc>http://index.html/images/i6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/semana56.jpg</image:loc>
+      <image:loc>http://index.html/images/i7.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/semana57.jpg</image:loc>
+      <image:loc>http://index.html/images/i8.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/semana58.jpg</image:loc>
+      <image:loc>http://index.html/images/i9.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/semana52.jpg</image:loc>
+      <image:loc>http://index.html/images/i10.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/i11.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/i1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/i2.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://index.html/semana-6.html</loc>
-    <lastmod>2018-09-25</lastmod>
+    <lastmod>2018-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/semana61.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/semana%2062.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-7.html</loc>
+    <lastmod>2018-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
