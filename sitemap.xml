@@ -212,7 +212,7 @@
   </url>
   <url>
     <loc>http://index.html/estado-del-arte.html</loc>
-    <lastmod>2018-10-04</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -231,19 +231,13 @@
       <image:loc>http://index.html/images/captura.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/nt1.jpg</image:loc>
+      <image:loc>http://index.html/images/eda1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/nt2.jpg</image:loc>
+      <image:loc>http://index.html/images/eda2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/nt3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/nt4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/nt5.jpg</image:loc>
+      <image:loc>http://index.html/images/eda3.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -269,7 +263,7 @@
   </url>
   <url>
     <loc>http://index.html/semana-5.html</loc>
-    <lastmod>2018-10-04</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -311,20 +305,20 @@
   </url>
   <url>
     <loc>http://index.html/semana-6.html</loc>
-    <lastmod>2018-10-05</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/semana61.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/semana%2062.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://index.html/semana-7.html</loc>
-    <lastmod>2018-10-04</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/semana%2062.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
