@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://index.html/index.html</loc>
-    <lastmod>2018-10-04</lastmod>
+    <lastmod>2018-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -242,7 +242,7 @@
   </url>
   <url>
     <loc>http://index.html/materiales.html</loc>
-    <lastmod>2018-10-04</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -251,7 +251,7 @@
   </url>
   <url>
     <loc>http://index.html/semana-4.html</loc>
-    <lastmod>2018-10-04</lastmod>
+    <lastmod>2018-10-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -268,6 +268,9 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/mano.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/i1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/i3.jpg</image:loc>
@@ -297,9 +300,6 @@
       <image:loc>http://index.html/images/i11.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/i1.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://index.html/images/i2.jpg</image:loc>
     </image:image>
   </url>
@@ -314,11 +314,71 @@
   </url>
   <url>
     <loc>http://index.html/semana-7.html</loc>
-    <lastmod>2018-10-06</lastmod>
+    <lastmod>2018-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://index.html/images/semana%2062.jpg</image:loc>
+      <image:loc>http://index.html/images/diagrama%20modular.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/leyenda%20diagrama%20modular.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/anterior4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/anterior3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/anterior1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/anterior2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-8.html</loc>
+    <lastmod>2018-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/socket.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/mu%C3%B1on.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/vistaarriba.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/pasted%20image%20361x425.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/planos.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-9.html</loc>
+    <lastmod>2018-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/socketimpreso2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/socetimpreso1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-10.html</loc>
+    <lastmod>2018-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://index.html/semana-11.html</loc>
+    <lastmod>2018-10-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
