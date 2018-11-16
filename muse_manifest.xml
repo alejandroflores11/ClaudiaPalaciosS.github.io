@@ -1,23 +1,24 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1541866960922">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1542331938194">
   <folder name="css">
     <file name="site_global.css" crc="186167303"/>
-    <file name="semana-10.css" crc="338987441" ref="semana-10"/>
-    <file name="semana-2.css" crc="4150699775" ref="semana-2"/>
-    <file name="semana-9.css" crc="361913065" ref="semana-9"/>
-    <file name="estado-del-arte.css" crc="219948972" ref="estado-del-arte"/>
-    <file name="semana-6.css" crc="4209771963" ref="semana-6"/>
-    <file name="semana-1.css" crc="3816194212" ref="semana-1"/>
-    <file name="semana-8.css" crc="3945756176" ref="semana-8"/>
-    <file name="semana-13.css" crc="4037812953" ref="semana-13"/>
-    <file name="semana-5.css" crc="323952830" ref="semana-5"/>
-    <file name="index.css" crc="363225665" ref="index"/>
-    <file name="nomq_index.css" crc="4160641709" ref="index"/>
-    <file name="semana-7.css" crc="4051646079" ref="semana-7"/>
-    <file name="semana-12.css" crc="36552283" ref="semana-12"/>
-    <file name="semana-4.css" crc="4003694940" ref="semana-4"/>
-    <file name="semana-11.css" crc="3841313558" ref="semana-11"/>
-    <file name="materiales.css" crc="3867621295" ref="materiales"/>
-    <file name="semana-3.css" crc="4011603742" ref="semana-3"/>
+    <file name="semana-1.css" crc="299366229" ref="semana-1"/>
+    <file name="semana-8.css" crc="451338312" ref="semana-8"/>
+    <file name="estado-del-arte.css" crc="4089402255" ref="estado-del-arte"/>
+    <file name="semana-11.css" crc="85138027" ref="semana-11"/>
+    <file name="index.css" crc="3909579430" ref="index"/>
+    <file name="nomq_index.css" crc="3814231216" ref="index"/>
+    <file name="semana-7.css" crc="48097953" ref="semana-7"/>
+    <file name="semana-6.css" crc="4274042357" ref="semana-6"/>
+    <file name="semana-14.css" crc="12745356" ref="semana-14"/>
+    <file name="semana-10.css" crc="4075374055" ref="semana-10"/>
+    <file name="semana-4.css" crc="3833990732" ref="semana-4"/>
+    <file name="semana-13.css" crc="3953308615" ref="semana-13"/>
+    <file name="semana-9.css" crc="3768212054" ref="semana-9"/>
+    <file name="materiales.css" crc="3789396318" ref="materiales"/>
+    <file name="semana-5.css" crc="14800921" ref="semana-5"/>
+    <file name="semana-3.css" crc="176075524" ref="semana-3"/>
+    <file name="semana-2.css" crc="4286049556" ref="semana-2"/>
+    <file name="semana-12.css" crc="197640729" ref="semana-12"/>
   </folder>
   <folder name="assets">
     <file name="socket-v2.stl" crc="3877884508" seo="true" mt="1541620645000"/>
@@ -26,21 +27,21 @@
     <file name="esponja.stl" crc="3877884508" seo="true" mt="1541621777000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13"/>
-    <file name="museutils.js" crc="3803043152" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13"/>
-    <file name="whatinput.js" crc="86476730" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13"/>
-    <file name="museconfig.js" crc="380897831" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14"/>
+    <file name="museutils.js" crc="3803043152" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14"/>
+    <file name="whatinput.js" crc="86476730" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14"/>
+    <file name="museconfig.js" crc="380897831" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:semana-1"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="index:semana-1:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11"/>
-    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:semana-1:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:semana-1:estado-del-arte"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:semana-1:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:semana-1:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13"/>
+    <file name="require.js" crc="4157109226" ref="index:semana-1:semana-2:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13:semana-14"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="328987819" ref="index"/>
@@ -51,7 +52,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:semana-1:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11"/>
+    <file name="blank.gif" crc="4208392903" ref="index:semana-1:semana-3:estado-del-arte:materiales:semana-4:semana-5:semana-6:semana-7:semana-8:semana-9:semana-10:semana-11:semana-12:semana-13"/>
     <file name="58d1f4a8334b4.jpg" crc="3978602243" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -145,7 +146,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="3d.jpg" crc="3978430316" seo="true" ref="index">
+    <file name="3d285x178.jpg" crc="3780656008" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -319,7 +320,7 @@
     <file name="ganttyy-.jpg" crc="3852171078" seo="true" ref="semana-3">
       <caption webpage="semana-3" alt=""/>
     </file>
-    <file name="techvoizecom.jpg" crc="4011244044" seo="true" ref="estado-del-arte">
+    <file name="techvoizecom.jpg" crc="4011244044" ref="estado-del-arte">
       <caption webpage="estado-del-arte" alt=""/>
     </file>
     <file name="linea de tiempo.jpg" crc="4276362149" seo="true" ref="estado-del-arte">
@@ -343,7 +344,7 @@
     <file name="eda3.jpg" crc="273265095" seo="true" ref="estado-del-arte">
       <caption webpage="estado-del-arte" alt=""/>
     </file>
-    <file name="asdasas.jpg" crc="4015901791" seo="true" ref="materiales">
+    <file name="3d.jpg" crc="478333883" seo="true" ref="materiales">
       <caption webpage="materiales" alt=""/>
     </file>
     <file name="image2.jpg" crc="466669867" seo="true" ref="semana-4">
@@ -470,20 +471,21 @@
       <caption webpage="semana-11" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3937980993" seo="true" mt="1541259257412" redirect="true"/>
-  <file name="semana-1.html" crc="473028213" seo="true" mt="1541607236613" redirect="true"/>
-  <file name="semana-2.html" crc="3925034179" seo="true" mt="1537927853560" redirect="true"/>
-  <file name="semana-3.html" crc="3948700115" seo="true" mt="1541607077893" redirect="true"/>
-  <file name="estado-del-arte.html" crc="3885577994" seo="true" mt="1541607161556" redirect="true"/>
-  <file name="materiales.html" crc="130701969" seo="true" mt="1541607202532" redirect="true"/>
-  <file name="semana-4.html" crc="3847699866" seo="true" mt="1541607036727" redirect="true"/>
-  <file name="semana-5.html" crc="4086370617" seo="true" mt="1541606990159" redirect="true"/>
-  <file name="semana-6.html" crc="3939656804" seo="true" mt="1541606948861" redirect="true"/>
-  <file name="semana-7.html" crc="372523481" seo="true" mt="1541606889278" redirect="true"/>
-  <file name="semana-8.html" crc="3828247274" seo="true" mt="1541866203634" redirect="true"/>
-  <file name="semana-9.html" crc="152334301" seo="true" mt="1541606726101" redirect="true"/>
-  <file name="semana-10.html" crc="532925439" seo="true" mt="1541621442094" redirect="true"/>
-  <file name="semana-11.html" crc="273483660" seo="true" mt="1541866848731" redirect="true"/>
-  <file name="semana-12.html" crc="309902709" seo="true" mt="1541861252292" redirect="true"/>
-  <file name="semana-13.html" crc="3838083711" seo="true" mt="1541861325014" redirect="true"/>
+  <file name="index.html" crc="118183944" seo="true" mt="1542331788177" redirect="true"/>
+  <file name="semana-1.html" crc="3799400815" seo="true" mt="1542330771838" redirect="true"/>
+  <file name="semana-2.html" crc="145471620" seo="true" mt="1537927853560" redirect="true"/>
+  <file name="semana-3.html" crc="3842165207" seo="true" mt="1542330515748" redirect="true"/>
+  <file name="estado-del-arte.html" crc="438295632" seo="true" mt="1542331280290" redirect="true"/>
+  <file name="materiales.html" crc="4032141858" seo="true" mt="1542331487113" redirect="true"/>
+  <file name="semana-4.html" crc="3833742901" seo="true" mt="1542330451315" redirect="true"/>
+  <file name="semana-5.html" crc="3788943426" seo="true" mt="1542330358527" redirect="true"/>
+  <file name="semana-6.html" crc="3872048332" seo="true" mt="1542330259522" redirect="true"/>
+  <file name="semana-7.html" crc="248264361" seo="true" mt="1542330284543" redirect="true"/>
+  <file name="semana-8.html" crc="3969857178" seo="true" mt="1542331879176" redirect="true"/>
+  <file name="semana-9.html" crc="102396689" seo="true" mt="1542331865848" redirect="true"/>
+  <file name="semana-10.html" crc="315341539" seo="true" mt="1542329601499" redirect="true"/>
+  <file name="semana-11.html" crc="4047020884" seo="true" mt="1542331847989" redirect="true"/>
+  <file name="semana-12.html" crc="145374377" seo="true" mt="1542331821916" redirect="true"/>
+  <file name="semana-13.html" crc="337334374" seo="true" mt="1542331804902" redirect="true"/>
+  <file name="semana-14.html" crc="3925951832" seo="true" mt="1542325919886" redirect="false"/>
 </manifest>
