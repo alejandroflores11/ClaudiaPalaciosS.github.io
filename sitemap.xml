@@ -239,9 +239,21 @@
   </url>
   <url>
     <loc>http://index.html/semana-13.html</loc>
-    <lastmod>2018-11-16</lastmod>
+    <lastmod>2018-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/captura52.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/captura42.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/captura7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/captura8.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://index.html/semana-1.html</loc>
@@ -338,9 +350,18 @@
   </url>
   <url>
     <loc>http://index.html/semana-12.html</loc>
-    <lastmod>2018-11-15</lastmod>
+    <lastmod>2018-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/captura6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/captura22.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/captura32.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://index.html/semana-14.html</loc>
@@ -374,7 +395,7 @@
   </url>
   <url>
     <loc>http://index.html/semana-10.html</loc>
-    <lastmod>2018-11-15</lastmod>
+    <lastmod>2018-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -392,7 +413,7 @@
   </url>
   <url>
     <loc>http://index.html/semana-9.html</loc>
-    <lastmod>2018-11-16</lastmod>
+    <lastmod>2018-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -404,10 +425,13 @@
     <image:image>
       <image:loc>http://index.html/images/captura3.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/captura23.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://index.html/semana-11.html</loc>
-    <lastmod>2018-11-16</lastmod>
+    <lastmod>2018-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
